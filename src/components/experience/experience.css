@@ -48,7 +48,7 @@
         grid-template-columns: 1fr;
     }
     .experience__container > div {
-        width: 80%;
+        width: 85%;
         padding: 2rem;
         margin: 0 auto;
     }
@@ -68,6 +68,11 @@
     .experience__container > div {
         width: 100%;
         padding: 2rem 0;
+    }
+
+    .experience__content{
+        grid-template-columns: 1fr;
+        padding-left: 8rem;
     }
 
  }
